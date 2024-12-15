@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "^13.16.1",
+    "cypress-ajv-schema-validator": "^1.4.0"
+  }
+}
