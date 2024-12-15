@@ -10,6 +10,6 @@ How to configure the cy.validateSchema() custom command: In cypress/support/comm
 
 `import 'cypress-ajv-schema-validator'`
 
-#### import validateSchema from 'cypress-ajv-schema-validator'
+`import validateSchema from 'cypress-ajv-schema-validator'`
 
 
