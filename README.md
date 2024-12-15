@@ -8,7 +8,7 @@ validateSchema() is a custom Cypress command or utility function used to validat
 
 How to configure the cy.validateSchema() custom command: In cypress/support/commands.js, you need to import two lines from the ajv library:
 
-[import 'cypress-ajv-schema-validator']
+`import 'cypress-ajv-schema-validator'`
 
 #### import validateSchema from 'cypress-ajv-schema-validator'
 
