@@ -13,6 +13,6 @@ How to configure the cy.validateSchema() custom command: In cypress/support/comm
 `import validateSchema from 'cypress-ajv-schema-validator'`
 
 # API
-Try with FakeApi https://fakestoreapi.com/
+Try with FakeStoreApi https://fakestoreapi.com/
 
 
